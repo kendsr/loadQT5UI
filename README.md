@@ -1,0 +1,2 @@
+## Test App
+This program demonstrates using the 'uic' PyQT5 module. This loads the .ui file directly into the python program versus running it throuh pyuic5, the CLI for the uic module, to convert the design file into python code.
